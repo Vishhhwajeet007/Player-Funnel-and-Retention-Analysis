@@ -1,4 +1,4 @@
-# Player-Funnel-and-Retention-Analysis
+# Player Lifecycle Analytics – Funnel, Retention & Segmentation
 Project Overview
 
 # This project analyzes player behavior in an online gaming/betting dataset to identify:
